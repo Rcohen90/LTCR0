@@ -15,7 +15,7 @@ public class Prueba_Rep {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Listo!");
+        System.out.println("LTCR TE AMO  ♥");
     }
     
 }
